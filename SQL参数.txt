@@ -1,0 +1,111 @@
+oracle tns:
+dev_172.24.186.68 
+
+ =
+  (DESCRIPTION =
+    (ADDRESS_LIST =
+      (ADDRESS = (PROTOCOL = TCP)(HOST = 172.24.20.152
+
+)(PORT = 1521))
+    )
+    (CONNECT_DATA =
+      (SERVICE_NAME = orcl)
+    )
+  )
+
+帐号：
+testusr2 / test_2789
+
+
+
+我:
+http://219.137.167.150:15301/login!adminLoginUI
+我:
+账号：13192291433@163.com
+密码：433
+
+生产环境
+http://219.137.167.150:15081/login!adminLogin.action
+
+adminhome123
+
+pptcdev1/ptdev_1789
+
+https://www.bugclose.com/console.html 
+
+账号：79559259@qq.com
+密码：622523
+
+D:\Oracle11g\product\11.2.0\client_1\BIN\oci.dll
+
+
+
+
+SVN
+
+https://172.24.20.152/svn/DevDocument/PPTC
+Liuxm 89332018
+
+https://112.74.97.36:8443/svn/IDC 
+
+jiang/jiang
+	
+	
+短信平台
+http://14.29.83.12:8899/login.aspx
+账号：admin
+密码：Ryan_xhy830421
+
+新的部署数据库
+pptc_testuser02 /tsur_6789
+pptc_testuser01
+
+
+https://www.bugclose.com/index.html
+账号：79559259@qq.com
+密码：622523
+
+权限更改方法
+
+服务器
+219.137.167.150 :15389
+172.24.20.150
+账户administrator /PptcSv#8933
+测试数据库
+jdbc.username=testuser01
+jdbc.password=tu01_36603
+
+内部资源
+\\10.1.1.51\pub\microsoft\office\office2016
+ ForShare/Share3389
+
+培训系统
+elearning_user1 / elu_8933
+
+正式环境密码admin:pptcadmin#8933
+
+员工密码 :pptc@8933
+
+151的库
+测试数据库帐号：orcl
+tu181207/tu_181207
+
+152
+正式环境测试数据库帐号：orcl
+itsmuser/itur_8933
+
+liuxmdaniu
+19960503@lxm
+
+
+宽带
+02004877798@163.gd
+
+AABB7798
+
+YknJaU>km1hw
+
+查看注册表
+regedit
+
+qq632233192   qq632233192
